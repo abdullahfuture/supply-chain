@@ -1,5 +1,6 @@
 # 🚛 Optimizing Supply Chain for FMCG Growth  
 ![Dashboard report](Dashboard.png)
+## Data modeling
 ![data modeling report](data_model.png)
 Welcome to the **FMCG Supply Chain Expansion** project!  
 Scaling a fast-moving consumer goods business? Let's make it efficient! 📦📊  
